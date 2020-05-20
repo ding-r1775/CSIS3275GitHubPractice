@@ -12,5 +12,10 @@ public class myAppTester {
         System.out.println("The sqr number of " + n + " is " + sqre);
 
         input.close();
+
+        // Git now is on branch b1
+        // from now on any changes will be tracked in branch b1
+        // and will not be reflected in any other branch unless b1
+        // will be merged later
     }
 }
